@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Valorant Agents</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_detail">Item Detail</string>
+    <string name="item_info">More Detail</string>
+    <string name="toolbar_name">Valorant Agents</string>
+    <string name="brimstone">Brimstone</string>
+    <string name="name">Name</string>
+    <string name="item_role">Item Role</string>
+    <string name="role">Role</string>
+    <string name="bibliography">Bibliography</string>
+    <string name="item_bibliography">Item Bibliography</string>
+    <string name="skill_detail">Special Abilities</string>
+    <string name="item_skill_detail">Skill Detail</string>
+    <string name="item_skill_name">Item Skill Name</string>
+    <string name="about_name">Angga Puja Restu Prakasa</string>
+    <string name="about_email">kierska19@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="splash_text">Valorant Agent Database</string>
+</resources>
