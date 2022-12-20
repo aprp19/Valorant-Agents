@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgcolor">#dc3d4b</color>
+    <color name="black">#FF000000</color>
+    <color name="cvbg">#364966</color>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="toolbarbg">#fa4454</color>
+    <color name="txtcolor">#e8e8e0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">About</string>
+    <string name="about_email">kierska19@gmail.com</string>
+    <string name="about_name">Angga Puja Restu Prakasa</string>
+    <string name="app_name">Valorant Agents</string>
+    <string name="bibliography">Bibliography</string>
+    <string name="brimstone">Brimstone</string>
+    <string name="home">Home</string>
+    <string name="item_bibliography">Item Bibliography</string>
+    <string name="item_detail">Item Detail</string>
+    <string name="item_info">More Detail</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_role">Item Role</string>
+    <string name="item_skill_detail">Skill Detail</string>
+    <string name="item_skill_name">Item Skill Name</string>
+    <string name="name">Name</string>
+    <string name="role">Role</string>
+    <string name="share">Share</string>
+    <string name="skill_detail">Special Abilities</string>
+    <string name="splash_text">Valorant Agent Database</string>
+    <string name="toolbar_name">Valorant Agents</string>
+    <style name="Theme.DicodingSubmission" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/valorant_font</item>
+    </style>
+</resources>

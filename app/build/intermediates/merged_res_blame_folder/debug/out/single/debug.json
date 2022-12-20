@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sage_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sage_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_breach_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\breach_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_phoenix.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\phoenix.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_sage.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\sage.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_reyna.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\reyna.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_splash_valorant.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\splash_valorant.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/drawable_valorant_ico.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/drawable/valorant_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_omen_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\omen_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_reyna_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\reyna_c.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_brimstone.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\brimstone.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_role_duelist.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\role_duelist.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_viper_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\viper_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_item_cardview.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\item_cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_reyna_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\reyna_q.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_breach.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\breach.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_reyna_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\reyna_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_role_controller.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\role_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_cypher.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\cypher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sova_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sova_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_viper_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\viper_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sage_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sage_c.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_brimstone_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\brimstone_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_omen_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\omen_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sage_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sage_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_cypher_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\cypher_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_breach_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\breach_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_phoenix_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\phoenix_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_reyna_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\reyna_e.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_sova.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\sova.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_killjoy_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\killjoy_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sova_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sova_e.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\menu_toolbar.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_viper_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\viper_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_killjoy_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\killjoy_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_brimstone_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\brimstone_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_phoenix_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\phoenix_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_cypher_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\cypher_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_phoenix_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\phoenix_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_brimstone_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\brimstone_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_role_sentinel.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\role_sentinel.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-v24_about_photo.jpg.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable-v24\\about_photo.jpg"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_role_initiator.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\role_initiator.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-xxhdpi_brimstone_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-xxhdpi\\brimstone_q.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_killjoy.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\killjoy.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_phoenix_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\phoenix_c.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_breach_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\breach_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_breach_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\breach_x.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\font_valorant_font.ttf.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\font\\valorant_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_cypher_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\cypher_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_killjoy_e.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\killjoy_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_omen_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\omen_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sova_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sova_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_viper.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\viper.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_cypher_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\cypher_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_viper_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\viper_x.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sova_c.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sova_c.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_omen_q.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\omen_q.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_omen.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\omen.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_button_radius.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\button_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_killjoy_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\killjoy_x.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable-mdpi_sage_x.png.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-debug-32:\\drawable-mdpi\\sage_x.png"
+    },
+    {
+        "merged": "com.aprp19.dicodingsubmission.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aprp19.dicodingsubmission.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kiers\\.gradle\\daemon\\7.4\\com.aprp19.dicodingsubmission.app-main-33:\\xml\\backup_rules.xml"
+    }
+]
