@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
         rvItemView.setHasFixedSize(true)
 
         list.addAll(AgentData.agentItem)
-        showRecyclerCardView()
 
 
     }
