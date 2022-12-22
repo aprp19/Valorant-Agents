@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
         list.addAll(AgentData.agentItem)
         showRecyclerCardView()
 
-
     }
 
     //Toolbar
