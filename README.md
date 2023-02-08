@@ -1,5 +1,5 @@
 # Valorant Agents
-Dicoding Final Submission using MVC
+Dicoding Final Submission using MVC and Kotlin
 
 ## Images
 
